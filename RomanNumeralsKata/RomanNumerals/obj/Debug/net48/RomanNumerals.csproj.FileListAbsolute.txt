@@ -1,0 +1,9 @@
+C:\Users\manfr\Desktop\Programowanie Norbert\RomanNumeralsKata\RomanNumerals\bin\Debug\net48\RomanNumerals.dll
+C:\Users\manfr\Desktop\Programowanie Norbert\RomanNumeralsKata\RomanNumerals\bin\Debug\net48\RomanNumerals.pdb
+C:\Users\manfr\Desktop\Programowanie Norbert\RomanNumeralsKata\RomanNumerals\obj\Debug\net48\RomanNumerals.csproj.AssemblyReference.cache
+C:\Users\manfr\Desktop\Programowanie Norbert\RomanNumeralsKata\RomanNumerals\obj\Debug\net48\RomanNumerals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manfr\Desktop\Programowanie Norbert\RomanNumeralsKata\RomanNumerals\obj\Debug\net48\RomanNumerals.AssemblyInfoInputs.cache
+C:\Users\manfr\Desktop\Programowanie Norbert\RomanNumeralsKata\RomanNumerals\obj\Debug\net48\RomanNumerals.AssemblyInfo.cs
+C:\Users\manfr\Desktop\Programowanie Norbert\RomanNumeralsKata\RomanNumerals\obj\Debug\net48\RomanNumerals.csproj.CoreCompileInputs.cache
+C:\Users\manfr\Desktop\Programowanie Norbert\RomanNumeralsKata\RomanNumerals\obj\Debug\net48\RomanNumerals.dll
+C:\Users\manfr\Desktop\Programowanie Norbert\RomanNumeralsKata\RomanNumerals\obj\Debug\net48\RomanNumerals.pdb
